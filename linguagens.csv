@@ -1,0 +1,12 @@
+,Linguagem,Popularidade,Versão,Desenvolvedores,Lançamento,Tipagem,Nivel
+0,Python,Alta,3.1,7000000,1991-02-20,Dinamica,Alto
+1,R,Baixa,4.12,500000,1993-08-03,Dinamica,Alto
+2,SQL,Altissima,,20000000,1986-01-01,None,None
+3,C,Media,,3500000,1972-01-01,Estatica,Baixo
+4,Java,Altissima,11.0,16000000,1995-05-23,Estatica,Alto
+5,JavaScript,Altissima,16.0,25000000,1995-12-04,Dinamica,Alto
+6,Elixir,Baixa,1.2,200000,2012-01-01,Dinamica,Alto
+7,Swift,Altissima,5.5,5000000,2004-06-02,Estatica,Alto
+8,Kotlin,Alta,1.5,1000000,2011-07-07,Estatica,Alto
+9,Go,Alta,1.17,3000000,2009-11-10,Estatica,Alto
+10,Ruby,Media,3.1,2000000,1995-12-21,Dinamica,Alto
